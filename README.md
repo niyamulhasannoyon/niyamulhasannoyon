@@ -10,10 +10,10 @@
 - ⚡ Fun fact: Conding with Understanding
 
 # 💫 About Me:
-MD. Niyamul Hasan
-Software engineer
-B.Sc in Computer Science and Engineering
-University of Dhaka
+MD. Niyamul Hasan <br>
+Software engineer <br>
+B.Sc in Computer Science and Engineering<br>
+University of Dhaka<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.niyamul.hasan.772094) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niyamulhasan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MDNiyamulHasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@niyamulhasan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Niyamul-Hasan) 
